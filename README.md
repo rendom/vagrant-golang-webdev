@@ -1,1 +1,8 @@
-# vagrant-golang-webdev
+# Golang webdev
+
+* Nginx
+* Mysql
+* Sqlite
+* Golang
+* Nodejs 
+* Gulp
